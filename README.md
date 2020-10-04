@@ -17,4 +17,4 @@ Have a intermediate level understanding of Data Structures and Algorithms with C
 - ⚡ Fun fact: ... 
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=devi777)

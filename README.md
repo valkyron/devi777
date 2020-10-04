@@ -1,7 +1,7 @@
 ### Hey there!
 
 <!--
-**devi777/devi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devi777/devi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Currently pursuing B.Tech in CSE, I'm devoted towards Machine Learning and Computer Vision. My work mostly involves applying ML Algorithms and Networks through Tensorflow, scikit-learn.
 
@@ -14,7 +14,7 @@ Have a intermediate level understanding of Data Structures and Algorithms with C
 - 🔭 I’m currently working on ... NLP, Headless Browsing
 - 💬 Ask me about ... ML, Computer Vision
 - 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devansh-kaushik-b5912b174/)
-- ⚡ Fun fact: ... 
--->
+- ⚡ Fun fact: ... Love EDMs and Football
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=devi777)

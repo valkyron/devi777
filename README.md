@@ -7,7 +7,7 @@ Currently pursuing B.Tech in CSE, I'm devoted towards Machine Learning and Compu
 
 Have a keen interest in AI and its applications. Exploring NLP and Selenium with Java.  
 
-I have a working level proficiency in full-stack web development with Django, DBMS, graphic designing and basic understanding of Arduino applications. Follow audio editing/production.
+I have a working level proficiency in full-stack web development with Django, DBMS, graphic designing and basic understanding of Arduino applications. Follow audio editing/production (FL Studio)
 
 Have a intermediate level understanding of Data Structures and Algorithms with C++, 5 starred in Problem Solving (Hackerrank) . 
 

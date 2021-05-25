@@ -9,7 +9,7 @@ Have a keen interest in AI and its applications. Exploring Voice and Facial reco
 
 Have some exposure in Computer Vision, WebDev with Flask/Django and DBMS. Follow graphic designing, audio editing/production (FL Studio)
 
-Have a intermediate level understanding of Data Structures and Algorithms with C++, 5 starred in Problem Solving & Python (Hackerrank) . 
+Have a intermediate level understanding of Data Structures and Algorithms with C++, 5 starred in Problem Solving & Python (Hackerrank) 
 
 - 🔭 I’m currently working on ... NLP, Headless Browsing
 - 💬 Ask me about ... ML, Data Science, Computer Vision (some WebDev)

@@ -13,7 +13,7 @@ Have a intermediate level understanding of Data Structures and Algorithms with C
 
 - 🔭 I’m currently working on ... NLP, Headless Browsing
 - 💬 Ask me about ... ML, Data Science, Computer Vision (some WebDev)
-- 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devansh-kaushik-b5912b174/)
+- 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devanshkaushik/)
 - ⚡ Fun fact: ... love EDMs and football
 
 

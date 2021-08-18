@@ -14,7 +14,7 @@ Have some exposure in Computer Vision, App development and DBMS. Follow graphic 
 Have a intermediate level understanding of Data Structures and Algorithms with C++, 5 starred in Problem Solving & Python (Hackerrank) 
 
 - 🔭 I’m currently working on ... Stats, DBMS
-- 💬 Ask me about ... ML, Data Science, Computer Vision (some WebDev)
+- 💬 Ask me about ... ML, Data Science, Computer Vision
 - 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devanshkaushik/)
 - ⚡ Fun fact: ... love EDMs and football
 

@@ -5,7 +5,7 @@
 
 Exploring Voice and Facial recognition these days.  -->
 
-Currently pursuing B.Tech in CSE, I'm devoted towards Machine Learning and Computer Vision. My work mostly revolves around ML/Data Sciences. 
+Currently pursuing M.Tech in CSE, I'm devoted towards Machine Learning and Computer Vision. My work mostly revolves around ML/Data Sciences. 
 
 Have a keen interest in AI and its applications. 
 
@@ -13,8 +13,8 @@ Have some exposure in Computer Vision, App development and DBMS. Follow graphic 
 
 Have a intermediate level understanding of Data Structures and Algorithms with C++, 5 starred in Problem Solving & Python (Hackerrank) 
 
-- 🔭 I’m currently working on ... Stats, DBMS
-- 💬 Ask me about ... ML, Data Science, Computer Vision
+- 🔭 I’m currently working on ... Software & Data Engineering, Algorithms
+- 💬 Ask me about ... ML, Data Science, Algorithms/Cpp
 - 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devanshkaushik/)
 - ⚡ Fun fact: ... love EDMs and football
 

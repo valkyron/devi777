@@ -5,14 +5,12 @@
 
 Exploring Mern stack and Docker/Kubernetes these days.  -->
 
-Currently pursuing M.Tech in CSE at IIT Jodhpur, I'm devoted towards Software Development. My work mostly revolves around SDE apps/ML projects. 
-
+Currently pursuing M.Tech in CSE at IIT Jodhpur. <br> Devoted towards SDE apps, AWS, DSA. <br>
 Have some exposure in DL (keras, pytorch) and NLP. Follow Ethical Hacking and Graph-theoretic algorithms
-
-Have a intermediate level understanding of Data Structures and Algorithms with C++, 5 starred in Problem Solving & Python (Hackerrank) 
+Langs: Cpp, Python
 
 - 🔭 I’m currently working on ... Edge & Fog Computing, MERN, DSA
-- 💬 Ask me about ... ML, Data Science, Algorithms/Cpp
+- 💬 Ask me about ... Cpp, NLP
 - 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devanshkaushik/)
 - ⚡ Fun fact: ... love EDMs and football
 

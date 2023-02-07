@@ -17,4 +17,4 @@ Have a intermediate level understanding of Data Structures and Algorithms with C
 - ⚡ Fun fact: ... love EDMs and football
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=devi777)
+![Github stats](https://github-readme-stats.vercel.app/api?username=valkyron)

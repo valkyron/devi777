@@ -11,7 +11,7 @@ Have some exposure in DL (keras, pytorch) and NLP. Follow Ethical Hacking and Gr
 
 Have a intermediate level understanding of Data Structures and Algorithms with C++, 5 starred in Problem Solving & Python (Hackerrank) 
 
-- 🔭 I’m currently working on ... Edge & Fog Computing, MERN, DSA, Cryptography Algos
+- 🔭 I’m currently working on ... Edge & Fog Computing, MERN, DSA
 - 💬 Ask me about ... ML, Data Science, Algorithms/Cpp
 - 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devanshkaushik/)
 - ⚡ Fun fact: ... love EDMs and football

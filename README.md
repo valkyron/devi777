@@ -10,7 +10,7 @@ Have some exposure in DL (keras, pytorch) and NLP. Follow Ethical Hacking and Gr
 Langs: Cpp, Python
 
 - 🔭 I’m currently working on ... Edge & Fog Computing, MERN, DSA
-- 💬 Ask me about ... Cpp, NLP
+- 💬 Ask me about ... Cpp, DL, System Design & Architecture, Core CSE
 - 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devanshkaushik/)
 - ⚡ Fun fact: ... love EDMs and football
 

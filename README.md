@@ -6,7 +6,7 @@
 Exploring Mern stack and Docker/Kubernetes these days.  -->
 
 Currently pursuing M.Tech in CSE at IIT Jodhpur. <br> Devoted towards SDE apps, DL, DSA. <br>
-Medium Proficiency in DL (pytorch, tensorflow) and NLP. 
+Proficienct in Backend Web Dev, Deep Learning (pytorch, tensorflow) and NLP. 
 Langs: C++, Python
 
 - 🔭 I’m currently working on ... Mtech Project (MERN), LeetCode, Districuted Databases, Virtualization & Cloud Computing

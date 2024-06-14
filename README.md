@@ -9,7 +9,7 @@ Currently pursuing M.Tech in CSE at IIT Jodhpur. <br> Devoted towards SDE apps, 
 Proficienct in Backend Web Dev, Deep Learning (pytorch, tensorflow) and NLP. 
 Langs: C++, Python
 
-- 🔭 I’m currently working on ... Mtech Project (MERN), LeetCode, Districuted Databases, Virtualization & Cloud Computing
+- 🔭 I’m currently working on ... System Design, Decentralised Android Apps, Automotive Projects 
 - 💬 Ask me about ... C++, Software & Data Engineering, DL, System Design, Core CS Subjects
 - 📫 How to reach me: ... [Email](devansh007kaushik@gmail.com) and [Linkedin](https://www.linkedin.com/in/devanshkaushik/)
 - ⚡ Fun fact: ... love EDMs and football
